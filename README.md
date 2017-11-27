@@ -1,6 +1,7 @@
 AndroidJS
 ===
 Author native and hybrid applications for the Android operating system with pure JavaScript. AndroidJS a web tech abstraction orgy on top of Android enabled by the crazy awesome DroidScript project by Mikael Kindborg. 
+Migrate project to Android Studio
 
 Rhino Features
 ---
